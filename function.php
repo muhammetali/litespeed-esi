@@ -1,3 +1,5 @@
+<?php
+
 function cym_get_post_view() {
     $count = get_post_meta( get_the_ID(), 'post_views_count', true );
     return "$count views";
