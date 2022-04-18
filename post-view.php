@@ -9,6 +9,7 @@ apply_filters( 'litespeed_esi_url', 'malimobil_esi_block', 'Malimobil ESI block'
 <?php
 echo apply_filters( 'litespeed_esi_url', 'malimobil_esi_block', 'Malimobil ESI block' );
 ?>
+  <a href="https://malimobil.com/wordpress-litespeed-esi-exclude-view-count-block-cache/">Example</a>
 </div>
 <?php
 //and then add following code into your theme’s functions.php:
